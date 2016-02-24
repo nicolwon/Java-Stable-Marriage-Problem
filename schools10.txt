@@ -1,0 +1,5 @@
+Willow Creek Charter School,0.68,5
+Summerville Technical School,0.59,1
+Sanctuary of the Black Water High School,0.84,1
+Evergreen Grammar School,0.80,1
+Seaside Elementary,0.03,2

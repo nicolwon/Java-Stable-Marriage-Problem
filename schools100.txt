@@ -1,0 +1,58 @@
+Faith School for Girls,0.50,37
+Reef of Crimson High School,0.64,3
+Anchorage of Demons High School,0.08,4
+Darwin Middle School,0.26,1
+Marie Curie Elementary,0.74,1
+Faraday Academy,0.27,1
+Ocean View Conservatory,0.85,1
+Sanctuary of Skeletons High School,0.77,1
+Grandview Kindergarten,0.18,1
+Pleasant Hill School for Girls,0.10,1
+Summerfield Elementary,0.35,1
+Eureka Kindergarten,0.55,1
+Foothill Academy,0.46,1
+Riverview Secondary School,0.66,1
+Eagle Mountain Institute,0.83,1
+Eureka Conservatory,0.92,1
+Port of Sunken Ships High School,0.63,1
+Mammoth School,0.52,1
+Cape Coral Conservatory,0.55,1
+Elk Creek Kindergarten,0.36,1
+Lone Pine Middle School,0.67,1
+Eastview Kindergarten,0.33,1
+Laguna Bay Elementary,0.57,1
+Cavern of Hazard High School,0.59,1
+West Bridge School for Girls,0.25,1
+Laguna Beach School for Girls,0.39,1
+Cavern of the Tempest High School,0.85,1
+South Fork High School,0.15,1
+Valley View Elementary,0.37,1
+Angelwood Grammar School,0.14,1
+Golden Valley High,0.94,1
+Lone Oak College,0.23,1
+Garden Grove School,0.13,1
+Sanctuary of Freebooters High School,0.96,1
+Horizon Technical School,0.51,1
+Sandalwood Academy,0.52,1
+Somerset School for Girls,0.87,1
+Stonewall School,0.08,1
+Hillview Elementary,0.25,1
+Waterfalls School,0.45,1
+Refuge of Thunder High School,0.77,1
+Oak Grove Elementary,0.08,1
+Cavern of Thunder High School,0.80,1
+Pioneer School,0.07,1
+Cypress Elementary,0.75,1
+Winters High,0.63,1
+Central Valley Grammar School,0.35,1
+Stonewall College,0.73,1
+Apple Valley School for Boys,0.38,1
+Village Kindergarten,1.00,1
+Port of Executions High School,0.95,1
+Isle of Dubloons High School,0.89,1
+Laguna Beach School for Girls,0.87,1
+Hideout of the Cyclone High School,0.45,1
+Enclave of Scuttlebutt High School,0.41,1
+Golden Valley Grammar School,0.58,1
+Vista Secondary School,0.37,1
+Cay of the Monsoon High School,0.21,2
